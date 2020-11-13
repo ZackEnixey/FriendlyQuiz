@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendlyQuiz", "FriendlyQuiz\FriendlyQuiz.csproj", "{0CC80E0F-6F00-4F34-BF73-3EC6DE06AB2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CC80E0F-6F00-4F34-BF73-3EC6DE06AB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC80E0F-6F00-4F34-BF73-3EC6DE06AB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC80E0F-6F00-4F34-BF73-3EC6DE06AB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC80E0F-6F00-4F34-BF73-3EC6DE06AB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE8A122-ECEF-46D6-A0CC-198B7A61D0B3}
+	EndGlobalSection
+EndGlobal
